@@ -12,7 +12,7 @@ About me
 
 <img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
-<p style="font-weight: normal">IDE's:</p>
+<p>IDE's:</p>
 
 <img src = "https://img.shields.io/badge/nano-4A90E2?style=for-the-badge&logo=nano&logoColor=white"/>
 
@@ -23,3 +23,5 @@ About me
 <img src = "https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"/>
 
 <img src = "https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
+
+<p></p>
