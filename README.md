@@ -14,8 +14,4 @@ About me
 
 <p>IDE's:</p>
 
-<img scr= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-
-<p>Platforming</p>
-
-<img  scr = "https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+<img src = "https://img.shields.io/badge/nano-4A90E2?style=for-the-badge&logo=nano&logoColor=white"/>
