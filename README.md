@@ -15,3 +15,11 @@ About me
 <p>IDE's:</p>
 
 <img src = "https://img.shields.io/badge/nano-4A90E2?style=for-the-badge&logo=nano&logoColor=white"/>
+
+<img src = "https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/>
+
+<img src = "https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+
+<img src = "https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"/>
+
+<img src = "https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
