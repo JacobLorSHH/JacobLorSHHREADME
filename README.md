@@ -2,7 +2,7 @@
 About me
 <br>
 
-Programming Languages:
+<p>Programming Languages:</p>
 
 <br>
 
