@@ -12,7 +12,7 @@ About me
 
 <img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
-<p>IDE's:</p>
+<p style="font-weight: bold">IDE's:</p>
 
 <img src = "https://img.shields.io/badge/nano-4A90E2?style=for-the-badge&logo=nano&logoColor=white"/>
 
